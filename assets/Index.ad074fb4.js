@@ -1,0 +1,1 @@
+import{l as s,K as a,r as c,o as u,c as n}from"./index.299ad1bc.js";import{u as _}from"./redPacketStore.29bdea6e.js";const f={__name:"Index",setup(p){const t=s(),e=_(),o=a().params.uuid;return e.$reset(),e.getRedPacketDetail(o,t.walletAddress),(m,i)=>{const r=c("router-view");return u(),n(r)}}};export{f as default};
