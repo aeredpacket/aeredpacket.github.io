@@ -1,1 +1,0 @@
-import{k as r,P as s,r as u,o as a,c}from"./index.499d7501.js";import{u as n}from"./redPacketStore.3055a5b9.js";const k={__name:"Index",setup(p){r();const e=n(),o=s().params.uuid;return e.uuid=o,(m,i)=>{const t=u("router-view");return a(),c(t)}}};export{k as default};
